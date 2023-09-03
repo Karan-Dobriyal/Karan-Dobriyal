@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data-Structures-and-Algorithms**
 
-- 💬 Ask me about **JavaScript,Angular,NGRX**
+- 💬 Ask me about **JAVA,JavaScript,Angular,NGRX**
 
 - 📫 How to reach me **karandobriyal26@gmail.com**
 
