@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Karan-Dobriyal&label=Profile%20views&color=0e75b6&style=flat" alt="Karan-Dobriyal" /> </p>
 
-- 🌱 I’m currently learning **Data-Structures-and-Algorithms**
+- 🌱 I’m currently learning **Data-Structures-and-Algorithms** 
 
 - 💬 Ask me about **JAVA,JavaScript,Angular,NGRX**
 
